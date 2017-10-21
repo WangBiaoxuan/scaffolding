@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "scaffolding",
+  "bin": {
+  	"scaffolding": "bin/scaffolding"
+  },
+  "dependencies": {
+    "chalk": "^2.2.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.11.0"
+  }
+}
